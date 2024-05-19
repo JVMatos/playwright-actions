@@ -6,9 +6,11 @@
   "directories": {
     "test": "tests"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Fernando Papito",
-  "license": "MIT"
+  "scripts": {},
+  "author": "João Vitor Matos",
+  "license": "MIT",
+  "repository": "git@github.com:JVMatos/playwright-actions.git",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
 }
